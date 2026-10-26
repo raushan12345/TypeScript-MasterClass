@@ -1,0 +1,50 @@
+//optional chaining
+
+let empName: string[] = ['Raj','Uday','Rohit']
+let emp = empName[21]
+console.log(emp?.toUpperCase()) // ? optional chaining [if the value is neither null or undefined]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
